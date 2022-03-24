@@ -1,0 +1,8 @@
+<div class="cookieconsent-optout-marketing" style="
+    background-image: url('https://gtm.guidobarbacci.com/wp-content/uploads/2022/03/Schermata-2022-03-24-alle-10.54.59.png');height: 270px;width: 480px;background-size: contain;display:flex;align-items: center;justify-content: center;">
+    <span style="color: white;">
+    Please
+    <a href="javascript:Cookiebot.renew()">accept marketing-cookies</a>
+    to watch this video.
+    </span>
+</div>
